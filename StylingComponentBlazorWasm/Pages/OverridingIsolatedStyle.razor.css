@@ -1,0 +1,9 @@
+﻿.overriding ::deep .person-detail
+{
+    color: black;
+}
+
+.wrapper
+{
+    border: 5px solid #7b3cc3;
+}
